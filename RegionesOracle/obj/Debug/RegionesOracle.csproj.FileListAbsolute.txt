@@ -1,0 +1,32 @@
+C:\Users\Jafet Escobedo\Documents\ProgramasC#\RegionesOracle\RegionesOracle\bin\Debug\RegionesOracle.exe
+C:\Users\Jafet Escobedo\Documents\ProgramasC#\RegionesOracle\RegionesOracle\bin\Debug\RegionesOracle.pdb
+C:\Users\Jafet Escobedo\Documents\ProgramasC#\RegionesOracle\RegionesOracle\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Jafet Escobedo\Documents\ProgramasC#\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.csprojResolveAssemblyReference.cache
+C:\Users\Jafet Escobedo\Documents\ProgramasC#\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.Regiones.resources
+C:\Users\Jafet Escobedo\Documents\ProgramasC#\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.Properties.Resources.resources
+C:\Users\Jafet Escobedo\Documents\ProgramasC#\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.csproj.GenerateResource.Cache
+C:\Users\Jafet Escobedo\Documents\ProgramasC#\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.exe
+C:\Users\Jafet Escobedo\Documents\ProgramasC#\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.pdb
+C:\Users\Gabriel\Documents\GitHub\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.exe
+C:\Users\Gabriel\Documents\GitHub\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.pdb
+<<<<<<< HEAD
+C:\Users\Gabriel\Documents\GitHub\RegionesOracle\RegionesOracle\bin\Debug\RegionesOracle.exe
+C:\Users\Gabriel\Documents\GitHub\RegionesOracle\RegionesOracle\bin\Debug\RegionesOracle.pdb
+C:\Users\Gabriel\Documents\GitHub\RegionesOracle\RegionesOracle\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Gabriel\Documents\GitHub\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.Regiones.resources
+C:\Users\Gabriel\Documents\GitHub\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.csproj.GenerateResource.Cache
+=======
+C:\Users\Jafet Escobedo\Documents\GitHub\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.exe
+C:\Users\Jafet Escobedo\Documents\GitHub\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.pdb
+C:\Users\Jafet Escobedo\Documents\GitHub\RegionesOracle\RegionesOracle\bin\Debug\RegionesOracle.exe
+C:\Users\Jafet Escobedo\Documents\GitHub\RegionesOracle\RegionesOracle\bin\Debug\RegionesOracle.pdb
+C:\Users\Jafet Escobedo\Documents\GitHub\RegionesOracle\RegionesOracle\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Jafet Escobedo\Documents\GitHub\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.csprojResolveAssemblyReference.cache
+C:\Users\Jafet Escobedo\Documents\GitHub\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.Regiones.resources
+C:\Users\Jafet Escobedo\Documents\GitHub\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.Properties.Resources.resources
+C:\Users\Jafet Escobedo\Documents\GitHub\RegionesOracle\RegionesOracle\obj\Debug\RegionesOracle.csproj.GenerateResource.Cache
+>>>>>>> refs/remotes/origin/master
+C:\Users\Jafet Escobedo\Documents\new\RegionesOracle\obj\Debug\RegionesOracle.exe
+C:\Users\Jafet Escobedo\Documents\new\RegionesOracle\obj\Debug\RegionesOracle.pdb
